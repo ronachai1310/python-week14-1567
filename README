@@ -1,0 +1,11 @@
+ให้เขียนระดับผลการเรียน
+***********
+1.score >=80 and <=100 = A
+2.score >=75 and <=80 = B+
+3.score >=70 and <=75 = B
+4.score >=65 and <=70 = C+
+5.score >=60 and <=65 = C
+6.score >=55 and <=60 = D+
+7.score >=50 and <=55 = D
+8.score >=0 and <=50 = F
+9.Out of score : "ERROR SCORE"
